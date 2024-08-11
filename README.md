@@ -2,5 +2,4 @@ This is the second year course ID1019 Programming II I have successfully complet
 
 
 | ![image](https://github.com/user-attachments/assets/69ab2de1-ef2b-4ac6-a3a3-feabf9bd0aaf) |
-|:--:|
-| *Centered Image* |
+|:-:|
